@@ -1,0 +1,12 @@
+[submodule "Arduinoboy"]
+	path = Arduinoboy
+	url = https://github.com/lpla/Arduinoboy
+[submodule "synccross"]
+	path = synccross
+	url = https://github.com/lpla/synccross.git
+[submodule "NintendoPCBs"]
+	path = NintendoPCBs
+	url = https://github.com/lpla/NintendoPCBs.git
+[submodule "gb-hardware"]
+	path = gb-hardware
+	url = https://github.com/lpla/gb-hardware
