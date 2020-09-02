@@ -6,7 +6,7 @@
 	url = https://github.com/lpla/synccross.git
 [submodule "NintendoPCBs"]
 	path = NintendoPCBs
-	url = https://github.com/lpla/NintendoPCBs.git
+	url = https://github.com/HDR/NintendoPCBs.git
 [submodule "gb-hardware"]
 	path = gb-hardware
 	url = https://github.com/lpla/gb-hardware
