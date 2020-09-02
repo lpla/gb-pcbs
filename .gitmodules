@@ -10,3 +10,6 @@
 [submodule "gb-hardware"]
 	path = gb-hardware
 	url = https://github.com/lpla/gb-hardware
+[submodule "FLASH-ROM-Adapter-mini-version-for-GameBoy"]
+	path = FLASH-ROM-Adapter-mini-version-for-GameBoy
+	url = https://github.com/Electroniq100/FLASH-ROM-Adapter-mini-version-for-GameBoy
