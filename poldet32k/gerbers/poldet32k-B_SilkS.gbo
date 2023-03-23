@@ -1,0 +1,15 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(5.99.0-1734-gfc9c75f9e)*%
+%TF.CreationDate,2020-06-08T22:25:13+02:00*%
+%TF.ProjectId,poldet32k-v2-autorouted,706f6c64-6574-4333-926b-2d76322d6175,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Legend,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.99.0-1734-gfc9c75f9e)) date 2020-06-08 22:25:13*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 APERTURE END LIST*
+M02*
